@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0"
+  }
+}
