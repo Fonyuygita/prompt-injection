@@ -1,4 +1,6 @@
 # AI Security Challenge - Prompt Injection Demo
+![Prompt injection-Fonyuy Gita](https://github.com/user-attachments/assets/1d798661-c492-4357-9b44-32bdf70cb49d)
+
 
 A hands-on educational tool demonstrating prompt injection vulnerabilities in AI systems. This project simulates a bank's AI assistant that has been instructed to keep a password secret, challenging users to try and extract it through various prompt injection techniques.
 
